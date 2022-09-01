@@ -4,9 +4,7 @@
 
 <form id="form1">
 <button id="btn1" type="button">HTML</button>
-</form>
-
-<p>Click the "Try it" button to display the id of the form the HTML button belongs to:</p>
+</for
 
 <button onclick="myFunction()">Try it</button>
 
