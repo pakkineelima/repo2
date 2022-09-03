@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 
 <form id="frm1" action="/action_page.php">
 <button id="btn1" name="subject" type="submit" value="fav_HTML">HTML</button>

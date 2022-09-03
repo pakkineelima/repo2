@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 
 <form>
 <input type="button" id="btn01" value="OK">
